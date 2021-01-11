@@ -1,5 +1,5 @@
-# Current Mod List for 1.8.1 DMP Sandbox MP
-### As of 01/11/2021
+# Planned mod list for 1.8.1 DMP Career MP
+
 Basic MP Functionality
 - DarkMultiplayer
 
@@ -26,40 +26,22 @@ Parts
 - SXT
 
 Plugin/Utility
-- AT_Utils
 - AtmosphericAutopilot
-- ASET
-- B9AnimationModules
-- B9PartSwitch
 - BetterBurnTime
-- ~~BetterTimeWarp~~
+- BetterTimeWarp
 - ClickThroughBlocker
-- ~~CommunityTechTree~~
-- Firespitter(API)
+- CommunityTechTree
 - FSHangarExtender
-- ~~HangarGrid~~
-- ~~HideEmptyTechTreeNodes~~
-- ~~HullCameraVDS~~
-- ~~InterstellarFuelSwitch~~
-- KerbalEngineer
+- HangarGrid
+- HideEmptyTechTreeNodes
+- HullCameraVDS
+- InterstellarFuelSwitch
 - KerbalJointReinforcement
 - KramaxAutopilot
-- KSP-AVC
-- KSPWheel
-- ~~LunaMultiplayer~~
-- ModularFlightIntegrator
 - PhysicsRangeExtender
-- RetractableLiftingSurface
-- SmokeScreen
 - TextureUnlimited
 - ThrottleControlledAvionics
 - TrackingStationEvolved
 - TrimIndicators
 - Tweakscale
 - VesselMover
-- WasdEditorCamera
-
-./Gamedata DLL
-- 999_Scale_Redist.dll
-- KSPUpgradeScriptFix.dll
-- ModuleManager.4.1.3.dll
