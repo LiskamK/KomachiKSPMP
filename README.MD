@@ -2,8 +2,8 @@
 
 **所有文档仅供参考。 All documentation for reference only.**
 
-参考[这个文件](./ModList.md)以了解正在使用的模组列表。
-Read [this file](./ModList.md) to get the mod lsit for current server cycle.
+参考[这个文件](./ModList.md)以了解**正在使用**的模组列表。
+Read [this file](./ModList.md) to get the mod list for **current** server cycle.
 
 参考[这个文件](./ModList_Plan.md)以了解下一周目的模组列表。
 Read [this file](./ModList_Plan.md) to get the mod list for next server cycle.
