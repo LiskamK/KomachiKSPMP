@@ -21,15 +21,11 @@ Parts
 - KerbalFoundries
 - Kerbalism
 - KIS
-- KSPInterstellarExtended
 - Mk3Expansion
 - MunarIndustries-FuelTankExpansion
 - NearFutureSolar
 - ProceduralParts
 - QuizTechAeroContinued
-- RemoteTech
-- StockalikeMiningExtension
-- StockalikeStationPartsExpansionRedux
 - SXT
 
 Plugin/Utility
@@ -69,3 +65,13 @@ Plugin/Utility
 - 999_Scale_Redist.dll
 - KSPUpgradeScriptFix.dll
 - ModuleManager.4.1.3.dll
+
+### Debatables
+[ ] SigmaDimentions/Kopernicus/6.4xKerbin
+[ ] RSS
+[ ] RealismOverhaul
+[ ] RemoteTech
+[ ] MechJeb
+[ ] StockalikeMiningExtension
+[ ] StockalikeStationPartsExpansionRedux
+[ ] KSPInterstellarExtended
