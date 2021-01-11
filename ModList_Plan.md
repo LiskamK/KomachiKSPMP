@@ -67,11 +67,11 @@ Plugin/Utility
 - ModuleManager.4.1.3.dll
 
 ### Debatables
-[ ] SigmaDimentions/Kopernicus/6.4xKerbin
-[ ] RSS
-[ ] RealismOverhaul
-[ ] RemoteTech
-[ ] MechJeb
-[ ] StockalikeMiningExtension
-[ ] StockalikeStationPartsExpansionRedux
+- [ ] SigmaDimentions/Kopernicus/6.4xKerbin
+- [ ] RSS
+- [ ] RealismOverhaul
+- [ ] RemoteTech
+- [ ] MechJeb
+- [ ] StockalikeMiningExtension
+- [ ] StockalikeStationPartsExpansionRedux
 [ ] KSPInterstellarExtended
