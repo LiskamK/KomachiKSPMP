@@ -14,6 +14,8 @@ Parts
 - B9_Aerospace_HX
 - B9_Aerospace_Legacy
 - B9_Aerospace_ProceduralWings
+- BDArmory[MP Edition]
+- BDModularMissileParts
 - JSI
 - KAS
 - KerbalFoundries
@@ -30,10 +32,14 @@ Plugin/Utility
 - ASET
 - B9AnimationModules
 - B9PartSwitch
+- BahaSP
 - BetterBurnTime
 - ~~BetterTimeWarp~~
 - ClickThroughBlocker
+- CommunityCategoryKit
+- CommunityResourcePack
 - ~~CommunityTechTree~~
+- ConfigurableContainers
 - Firespitter(API)
 - FSHangarExtender
 - ~~HangarGrid~~
