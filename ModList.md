@@ -20,7 +20,6 @@ Parts
 - KIS
 - Mk3Expansion
 - FuelTankExpansion
-- NF Solar
 - ProceduralParts
 - QuizTechAeroContinued
 - SXT

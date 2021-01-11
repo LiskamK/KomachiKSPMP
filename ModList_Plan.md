@@ -5,6 +5,7 @@ Basic MP Functionality
 
 Effects
 - EnvironmentalVisualEnhancements
+- GraphicsEnhancementsAssembly
 - Scatterer
 
 Parts
@@ -18,30 +19,48 @@ Parts
 - KAS
 - KerbalFoundries
 - KIS
+- KSPInterstellarExtended
 - Mk3Expansion
 - FuelTankExpansion
-- NF Solar
+- NearFutureSolar
 - ProceduralParts
 - QuizTechAeroContinued
 - SXT
 
 Plugin/Utility
+- AT_Utils
 - AtmosphericAutopilot
+- ASET
+- B9AnimationModules
+- B9PartSwitch
 - BetterBurnTime
 - BetterTimeWarp
 - ClickThroughBlocker
 - CommunityTechTree
+- Firespitter(API)
 - FSHangarExtender
 - HangarGrid
 - HideEmptyTechTreeNodes
 - HullCameraVDS
 - InterstellarFuelSwitch
+- KerbalEngineer
 - KerbalJointReinforcement
 - KramaxAutopilot
+- KSP-AVC
+- KSPWheel
+- ModularFlightIntegrator
 - PhysicsRangeExtender
+- RetractableLiftingSurface
+- SmokeScreen
 - TextureUnlimited
 - ThrottleControlledAvionics
 - TrackingStationEvolved
 - TrimIndicators
 - Tweakscale
 - VesselMover
+- WasdEditorCamera
+
+./Gamedata DLL
+- 999_Scale_Redist.dll
+- KSPUpgradeScriptFix.dll
+- ModuleManager.4.1.3.dll
