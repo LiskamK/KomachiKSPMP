@@ -15,16 +15,21 @@ Parts
 - B9_Aerospace_HX
 - B9_Aerospace_Legacy
 - B9_Aerospace_ProceduralWings
+- DMagicOrbitalTech
 - JSI
 - KAS
 - KerbalFoundries
+- Kerbalism
 - KIS
 - KSPInterstellarExtended
 - Mk3Expansion
-- FuelTankExpansion
+- MunarIndustries-FuelTankExpansion
 - NearFutureSolar
 - ProceduralParts
 - QuizTechAeroContinued
+- RemoteTech
+- StockalikeMiningExtension
+- StockalikeStationPartsExpansionRedux
 - SXT
 
 Plugin/Utility
